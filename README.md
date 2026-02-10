@@ -1,5 +1,3 @@
-# Citrix Machine Inventory Tool
-
 ## Overview
 This PowerShell tool is designed to be executed from a Domain Controller to collect and validate the state of machines in the environment.
 It retrieves detailed information about:
